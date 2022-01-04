@@ -1,2 +1,9 @@
-# test-repo
-This is a new repo
+# Introduction
+
+This is a repository created by *Aryan*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
